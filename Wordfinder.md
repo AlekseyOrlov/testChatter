@@ -47,4 +47,4 @@ Find word that match search parameters.
 
 ## License
 
-Fordfinder uses the MIT license. Please file an issue if you have any questions or if you'd like to share how you're using this project.
+Wordfinder uses the MIT license. Please file an issue if you have any questions or if you'd like to share how you're using this project.

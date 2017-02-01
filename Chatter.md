@@ -35,7 +35,7 @@ Pull repository. Change directory to `/Chatter`. You'll need to run
 $ cd ./Chatter
 $ pod update
 ```
-Pods will generate `Chatter.xcworkspace`. Run it with xcode.
+Pods will generate `Chatter.xcworkspace`. Run it with XCode.
 
 
 #### API keys Authentication
